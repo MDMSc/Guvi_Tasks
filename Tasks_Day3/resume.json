@@ -1,0 +1,56 @@
+{
+    "Name" : "Murtaza Samim Choudhury",
+    "Email" : "m.s.choudhury96@gmail.com",
+    "Phone Number" : ["9078802289", "8638422536"],
+    "Address" : {
+        "House" : "House1",
+        "Street" : "Street1",
+        "Locality" : "Locality1",
+        "City" : "City1",
+        "State" : "State1",
+        "PIN" : "PIN1"
+    },
+
+    "Education" : [
+        {
+            "Qualification" : "Bachelor of Technology - Information Technology",
+            "Institute" : "Kalinga Institute of Industrial Technology",
+            "Year of Passing" : "2019",
+            "CGPA/Percentage" : "7.97"
+        },
+
+        {
+            "Qualification" : "HSSLC(10+2)",
+            "Institute" : "Salt Brook Academy",
+            "Year of Passing" : "2015",
+            "CGPA/Percentage" : "88.2"
+        },
+
+        {
+            "Qualification" : "HSLC(10)",
+            "Institute" : "Bronson and Brown English Academy",
+            "Year of Passing" : "2013",
+            "CGPA/Percentage" : "82.0"
+        }
+    ],
+
+    "Experience" : [
+        {
+            "Company" : "Accenture Solutions Pvt Ltd",
+            "Position" : [
+                {
+                    "Designation" : "Application Development Associate",
+                    "Period" : "06/2019 - 05/2021"
+                },
+                {
+                    "Designation" : "Application Development Analyst",
+                    "Period" : "05/2021 - 05/2022"
+                }
+            ]
+        }
+    ],
+
+    "Technical Skills" : ["SAP ABAP Development", "HTML", "CSS", "Javascript", "React.js", "Node.js", "MongoDB", "AWS"],
+
+    "Areas of Interest" : ["Web Development", "Data Science", "Software Development", "Cloud Computing"]
+}
