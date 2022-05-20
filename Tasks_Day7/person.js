@@ -30,7 +30,7 @@ class Person {
     }
 
     get getContactDetails() {
-        return `City- ${this.phone}, Phone number- ${this.city}`;
+        return `City- ${this.city}, Phone number- ${this.phone}`;
     }
 
     get getProfession() {
